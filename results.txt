@@ -1,0 +1,298 @@
+Performance Evaluation
+----------------------------------------------------------------------------
+
+all.tar:				(Original file size = 3,000 KB)
+
+			LZW.java
+								File size = 1,800 KB
+								Ratio = 1.667
+			MyLZW.java ; Do Nothing mode
+								File size = 1,800 KB
+								Ratio = 1.667
+			MyLZW.java ; Reset mode
+								File size = 1,200 KB
+								Ratio = 2.500
+			MyLZW.java ; Monitor mode
+								File size = 3,200 KB
+								Ratio = 0.938
+			WinZip
+								File size = 950 KB
+								Ratio = 3.158
+
+
+----------------------------------------------------------------------------
+
+assig2.doc:				(Original file size = 87 KB)
+
+			LZW.java
+								File size = 75 KB
+								Ratio = 1.160
+			MyLZW.java ; Do Nothing mode
+								File size = 40 KB
+								Ratio = 2.175
+			MyLZW.java ; Reset mode
+								File size = 40 KB
+								Ratio = 2.175
+			MyLZW.java ; Monitor mode
+								File size = 40 KB
+								Ratio = 2.175
+			WinZip
+								File size = 22.1 KB
+								Ratio = 
+
+
+----------------------------------------------------------------------------
+
+bmps.tar:				(Original file size = 1,100 KB)
+
+			LZW.java
+								File size = 925 KB
+								Ratio = 1.189
+			MyLZW.java ; Do Nothing mode
+								File size = 81 KB
+								Ratio = 13.580
+			MyLZW.java ; Reset mode
+								File size = 81 KB
+								Ratio = 13.580
+			MyLZW.java ; Monitor mode
+								File size = 81 KB
+								Ratio = 13.580
+			WinZip
+								File size = 61.3 KB
+								Ratio = 17.945
+
+
+----------------------------------------------------------------------------
+
+code.txt:				(Original file size = 72 KB)
+
+			LZW.java
+								File size = 31 KB
+								Ratio = 2.323
+			MyLZW.java ; Do Nothing mode
+								File size = 25 KB
+								Ratio = 2.880
+			MyLZW.java ; Reset mode
+								File size = 25 KB
+								Ratio = 2.880
+			MyLZW.java ; Monitor mode
+								File size = 25 KB
+								Ratio = 2.880
+			WinZip
+								File size = 14.6 KB
+								Ratio = 4.932
+
+
+----------------------------------------------------------------------------
+
+code2.txt:				(Original file size = 58 KB)
+
+			LZW.java
+								File size = 24 KB
+								Ratio = 2,417
+			MyLZW.java ; Do Nothing mode
+								File size = 21 KB
+								Ratio = 2.762
+			MyLZW.java ; Reset mode
+								File size = 21 KB
+								Ratio = 2.762
+			MyLZW.java ; Monitor mode
+								File size = 21 KB
+								Ratio = 2.762
+			WinZip
+								File size = 13 KB
+								Ratio = 4.462
+
+
+----------------------------------------------------------------------------
+
+edit.exe:				(Original file size = 236 KB)
+
+			LZW.java
+								File size = 251 KB
+								Ratio = 0.940
+			MyLZW.java ; Do Nothing mode
+								File size = 156 KB
+								Ratio = 1.513
+			MyLZW.java ; Reset mode
+								File size = 152 KB
+								Ratio = 1.553
+			MyLZW.java ; Monitor mode
+								File size = 156 KB
+								Ratio = 1.513
+			WinZip
+								File size = 124 KB
+								Ratio = 1.903 
+
+
+----------------------------------------------------------------------------
+
+frosty.jpg:				(Original file size = 127 KB)
+
+			LZW.java
+								File size = 177 KB
+								Ratio = 0.718
+			MyLZW.java ; Do Nothing mode
+								File size = 164 KB
+								Ratio = 0.774
+			MyLZW.java ; Reset mode
+								File size = 171 KB
+								Ratio = 0.743
+			MyLZW.java ; Monitor mode
+								File size = 164 KB
+								Ratio = 0.774
+			WinZip
+								File size = 124 KB
+								Ratio = 1.024
+
+
+----------------------------------------------------------------------------
+
+gone_fishing.bmp:		(Original file size = 17 KB)
+
+			LZW.java
+								File size = 9 KB
+								Ratio = 1.889
+			MyLZW.java ; Do Nothing mode
+								File size = 9 KB
+								Ratio = 1.889
+			MyLZW.java ; Reset mode
+								File size = 9 KB
+								Ratio = 1.889
+			MyLZW.java ; Monitor mode
+								File size = 9 KB
+								Ratio = 1.889
+			WinZip
+								File size = 8.4 KB
+								Ratio = 2.024
+
+
+
+----------------------------------------------------------------------------
+
+large.txt:				(Original file size = 1,200 KB)
+
+			LZW.java
+								File size = 605 KB
+								Ratio = 1.983
+			MyLZW.java ; Do Nothing mode
+								File size = 502 KB
+								Ratio = 2.390
+			MyLZW.java ; Reset mode
+								File size = 527 KB
+								Ratio = 2.277
+			MyLZW.java ; Monitor mode
+								File size = 502 KB
+								Ratio = 2.390
+			WinZip
+								File size = 483 KB
+								Ratio = 2.484
+
+
+----------------------------------------------------------------------------
+
+Lego-big.gif:			(Original file size = 93 KB)
+
+			LZW.java
+								File size = 129 KB
+								Ratio = 0.721
+			MyLZW.java ; Do Nothing mode
+								File size = 122 KB
+								Ratio = 0.762
+			MyLZW.java ; Reset mode
+								File size = 122 KB
+								Ratio = 0.762
+			MyLZW.java ; Monitor mode
+								File size = 122 KB
+								Ratio = 0.762
+			WinZip
+								File size = 90.2 KB
+								Ratio = 1.031
+
+
+----------------------------------------------------------------------------
+
+medium.txt:				(Original file size = 25 KB)
+
+			LZW.java
+								File size = 13 KB
+								Ratio = 1.923
+			MyLZW.java ; Do Nothing mode
+								File size = 13 KB
+								Ratio = 1.923
+			MyLZW.java ; Reset mode
+								File size = 13 KB
+								Ratio = 1.923
+			MyLZW.java ; Monitor mode
+								File size = 13 KB
+								Ratio = 1.923
+			WinZip
+								File size = 10.5 KB
+								Ratio = 2.381
+
+
+----------------------------------------------------------------------------
+
+texts.tar:				(Original file size = 1,400 KB)
+
+			LZW.java
+								File size = 1,000 KB
+								Ratio = 1.400
+			MyLZW.java ; Do Nothing mode
+								File size = 598 KB
+								Ratio = 2.341
+			MyLZW.java ; Reset mode
+								File size = 590 KB
+								Ratio = 2.373
+			MyLZW.java ; Monitor mode
+								File size = 598 KB
+								Ratio = 2.341
+			WinZip
+								File size = 522 KB
+								Ratio = 2.682
+
+
+----------------------------------------------------------------------------
+
+wacky.bmp:				(Original file size = 922 KB)
+
+			LZW.java
+								File size = 4 KB
+								Ratio = 230.500
+			MyLZW.java ; Do Nothing mode
+								File size = 4 KB
+								Ratio = 230.500
+			MyLZW.java ; Reset mode
+								File size = 4 KB
+								Ratio = 230.500
+			MyLZW.java ; Monitor mode
+								File size = 4 KB
+								Ratio = 230.500
+			WinZip
+								File size = 2.8 KB
+								Ratio = 329.286
+
+
+----------------------------------------------------------------------------
+
+winnt256.bmp:			(Original file size = 157 KB)
+
+			LZW.java
+								File size = 159 KB
+								Ratio = 0.987
+			MyLZW.java ; Do Nothing mode
+								File size = 63 KB
+								Ratio = 2.492
+			MyLZW.java ; Reset mode
+								File size = 63 KB
+								Ratio = 2.492
+			MyLZW.java ; Monitor mode
+								File size = 63 KB
+								Ratio = 2.492
+			WinZip
+								File size = 48.1 KB
+								Ratio = 3.264
+
+
+----------------------------------------------------------------------------
+
